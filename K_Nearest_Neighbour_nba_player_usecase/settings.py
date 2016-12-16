@@ -1,0 +1,1 @@
+pathToCsv = "A:/CSV/nba-player-score"
