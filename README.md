@@ -1,6 +1,7 @@
 # Machine-Learning
 
-All individual folder are complete project in itself which I yried in order to learn new concepts on Macahine learning and data science
+All individual folder are complete project in itself which I have tried in order to learn new concepts on Machine learning and data science
 
 **Clone:**
-After cloning jsut male sure you have the required files. I have added the link to the datasets for individual project but in case not present , feel free to reach out.
+After cloning just make sure you have the required files. I have added the link to the datasets for the individual project but in case not present, feel free to reach out.
+
